@@ -1,0 +1,6 @@
+{
+  "name": "Аналітична панель замовлень одягу",
+  "description": "Інтерактивна аналітична панель для аналізу замовлень одягу, виторгу, ефективності товарів, структури оплат та часової динаміки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
